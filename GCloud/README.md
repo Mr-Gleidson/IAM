@@ -18,21 +18,10 @@ Bem-vindo ao repositório! Aqui você encontrará scripts e comandos essenciais 
 gcloud --version
 ```
 
-### Instale o Google Cloud SDK no Ubuntu
+### Instale o GCloud no CLI:
 
-1. Adicione a chave de assinatura da Google Cloud:
+  [Documentação Microsoft como instalar GCloud no seu CLI](https://cloud.google.com/sdk/docs/install?hl=pt-br#deb)
 
-    ```
-    sudo apt-get install apt-transport-https ca-certificates gnupg
-    echo "deb [signed-by=/usr/share/keyrings/cloud.google.gpg] http://packages.cloud.google.com/apt cloud-sdk main" | sudo tee -a /etc/apt/sources.list.d/google-cloud-sdk.list
-    curl https://packages.cloud.google.com/apt/doc/apt-key.gpg | sudo apt-key --keyring /usr/share/keyrings/cloud.google.gpg add -
-    ```
-
-2. Atualize o apt e instale o SDK:
-
-    ```
-    sudo apt-get update && sudo apt-get install google-cloud-sdk
-    ```
 
 ## Autenticação na gcloud
 
