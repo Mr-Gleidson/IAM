@@ -1,6 +1,6 @@
 # Scripts e Comandos Essenciais para Google Cloud Platform (GCP)
 
-Bem-vindo ao repositório GCloud! Aqui você encontrará scripts e comandos essenciais para trabalhar com a Google Cloud Platform (GCP), além de dicas úteis.
+Bem-vindo ao repositório! Aqui você encontrará scripts e comandos essenciais para trabalhar com a Google Cloud Platform (GCP), além de dicas úteis para edição no VS Code e uso do Vim.
 
 ## Índice
 
