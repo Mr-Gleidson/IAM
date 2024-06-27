@@ -4,7 +4,7 @@ Bem-vindo ao projeto IAM! Este repositório foi criado para fornecer insights e 
 
 ## Sobre o IAM
 
-O Gerenciamento de Identidade e Acesso (IAM) é fundamental para garantir a segurança e o controle de acesso a recursos na nuvem. Neste projeto, exploramos conceitos, estratégias e ferramentas para uma implementação eficaz do IAM.
+O Gerenciamento de Identidade e Acesso (IAM) é fundamental para garantir a segurança e o controle de acesso a recursos na nuvem. Este projeto contempla conceitos, estratégias e ferramentas para uma implementação eficaz do IAM.
 
 ## Objetivos
 
@@ -30,7 +30,7 @@ Sinta-se à vontade para abrir issues com dúvidas, sugestões ou problemas enco
 
 ## Agradecimentos
 
-Agradecemos por explorar este recurso e esperamos que ele seja útil em seu aprendizado e prática de IAM.
+Agradecemos por explorar este recurso e espero que ele seja útil em seu aprendizado e prática de IAM.
 
 ---
 
