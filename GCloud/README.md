@@ -52,6 +52,12 @@ Para obter ajuda sobre qualquer comando do gcloud:
 gcloud --help
 ```
 
+Para selecionar um projeto no gcloud:
+
+```
+gcloud config set project NOME_DO_PROJETO
+```
+
 
 ## Dicas de Edição no VS Code
 
