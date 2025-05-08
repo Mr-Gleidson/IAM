@@ -10,6 +10,11 @@ Bem-vindo ao repositório! Aqui você encontrará scripts e comandos essenciais 
 - [Dicas de Edição no VS Code](#dicas-de-edição-no-vs-code)
 - [Comandos do Vim](#comandos-do-vim)
 
+Para instalar o Ubuntu na sua máquina
+```sh
+wsl --install
+```
+
 ## Instalação do Google Cloud SDK
 
 ### Verifique se o CLI está instalado
