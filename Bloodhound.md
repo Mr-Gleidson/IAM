@@ -1,3 +1,8 @@
+# BloodHound CE - Instalação via Linux
+
+Este guia mostra como instalar e subir o **BloodHound CE** no Linux usando **Terminal**, **Git**, **Docker** e **Docker Compose Plugin**.
+
+
 ## 1. Atualização das ferramentas:
 
 ```bash
@@ -67,3 +72,25 @@ sudo docker compose logs bloodhound | grep -i "Initial Password"
 cat bloodhound.config.json
 ```
 
+
+# BloodHound CE - Instalação via PowerShell no Windows
+
+Este guia mostra como instalar e subir o **BloodHound CE** no Windows usando **PowerShell**, **Git** e **Docker Desktop**.
+
+---
+
+## 1. Pré-requisitos
+
+Antes de começar, instale:
+
+- Docker Desktop
+- Git for Windows
+- PowerShell
+
+Depois de instalar o Docker Desktop, abra ele e deixe rodando.
+
+Para validar se o Docker está funcionando:
+
+```powershell
+docker --version
+docker compose version
